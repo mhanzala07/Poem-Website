@@ -1,0 +1,90 @@
+li{
+    display: inline;
+    
+}
+ul{
+    text-align: center;
+    word-spacing: 180px;
+    background-color: #7e5b9b;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    margin-top: 8px;
+    font-size:x-large;
+}
+*{
+    text-decoration: none;
+}
+body{
+    text-align: center;
+    font-size: 30px;
+}
+#bb{
+    color: white;
+}
+#cc{
+    color: white;
+}
+#dd{
+    color: white;
+}
+#ee{
+    color: white;
+}
+#ff{
+    color: white;
+}
+div{
+    display: inline-flex;
+    font-size:40px;
+}
+#gg{
+    color: greenyellow;
+}
+#hh{
+    color: #37f8ff;
+}
+#ii{
+    color: yellow;
+}
+#jj{
+    color: #d69c2f;
+}
+#kk{
+    color: #12ce0b;
+}
+#ll{
+    color: red;
+}
+#mm{
+    color: blue;
+}
+#nn{
+    color: #e65ecf;
+}
+#oo{
+    color: #37f8ff;
+}
+#pp{
+    color: greenyellow;
+}
+.class{
+    color: rgb(46, 132, 167);
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Questrial&display=swap')
+
+  }
+.qq{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap')
+}
+/* .rr{
+    font-size:x-large;
+    color: red;
+    font-family: "Questrial", sans-serif;
+    font-style: normal;
+    @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Questrial&display=swap')
+} */
